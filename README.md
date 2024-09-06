@@ -1,6 +1,6 @@
 ## Live Link: https://jsarafath.github.io/tik-tak-toi/
 
-## Installation :
+## Installation : 
 
 ```bash
 # Clone this repository
